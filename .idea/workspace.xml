@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af172599-2fee-48df-bf2c-d718078031c7" name="Changes" comment="Initial Commit: &#10;Updating snake game with file to save high score" />
+    <list default="true" id="af172599-2fee-48df-bf2c-d718078031c7" name="Changes" comment="Starting code for Mail merge">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679243363110</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Starting code for Mail merge">
+      <created>1679814059201</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679814059205</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +186,7 @@
     <MESSAGE value="Snake game 4 : Create a snake class for cleaner code and OOP" />
     <MESSAGE value="Snake game 5 : Create function to move direction" />
     <MESSAGE value="Snake game 6 : Preventing backwards movement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snake game 6 : Preventing backwards movement" />
+    <MESSAGE value="Starting code for Mail merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting code for Mail merge" />
   </component>
 </project>
