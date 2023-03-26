@@ -14,7 +14,7 @@
     <option name="NEW_BASE" value="main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/100daysofcoding.24.File_directory_paths" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/justin/PycharmProjects/100daysofcoding.24.File_directory_paths",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager" selected="Python.main (1)">
@@ -171,10 +171,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-      <path value="$PROJECT_DIR$/100daysofcoding.24.File_directory_paths" />
-    </ignored-roots>
     <MESSAGE value="Initial Commit&#10;Snake game 1 : Initialising the snake" />
     <MESSAGE value="Snake game 2 : Moving forwards with the snake" />
     <MESSAGE value="Snake game 3 : Moving body with the head of the snake" />
